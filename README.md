@@ -79,7 +79,3 @@ README.md
   <li>Tkinter for the GUI</li>
 </ul>
 
-<h2>📄 License</h2>
-<p>
-  This project is for educational purposes. Feel free to modify and use it.
-</p>
