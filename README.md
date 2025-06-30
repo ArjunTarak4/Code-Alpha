@@ -1,5 +1,5 @@
 # Code-Alpha
-# task1
+# task 1
 <h1>🌐 Language Translator Tool</h1>
 
 <p>
@@ -79,3 +79,4 @@ README.md
   <li>Tkinter for the GUI</li>
 </ul>
 
+# task 2
